@@ -1,0 +1,15 @@
+H:\DesignPatterns\final project\FinalProject\FinalProject\obj\Debug\net7.0\FinalProject.csproj.AssemblyReference.cache
+H:\DesignPatterns\final project\FinalProject\FinalProject\obj\Debug\net7.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+H:\DesignPatterns\final project\FinalProject\FinalProject\obj\Debug\net7.0\FinalProject.AssemblyInfoInputs.cache
+H:\DesignPatterns\final project\FinalProject\FinalProject\obj\Debug\net7.0\FinalProject.AssemblyInfo.cs
+H:\DesignPatterns\final project\FinalProject\FinalProject\obj\Debug\net7.0\FinalProject.csproj.CoreCompileInputs.cache
+H:\DesignPatterns\final project\FinalProject\FinalProject\bin\Debug\net7.0\FinalProject.exe
+H:\DesignPatterns\final project\FinalProject\FinalProject\bin\Debug\net7.0\FinalProject.deps.json
+H:\DesignPatterns\final project\FinalProject\FinalProject\bin\Debug\net7.0\FinalProject.runtimeconfig.json
+H:\DesignPatterns\final project\FinalProject\FinalProject\bin\Debug\net7.0\FinalProject.dll
+H:\DesignPatterns\final project\FinalProject\FinalProject\bin\Debug\net7.0\FinalProject.pdb
+H:\DesignPatterns\final project\FinalProject\FinalProject\obj\Debug\net7.0\FinalProject.dll
+H:\DesignPatterns\final project\FinalProject\FinalProject\obj\Debug\net7.0\refint\FinalProject.dll
+H:\DesignPatterns\final project\FinalProject\FinalProject\obj\Debug\net7.0\FinalProject.pdb
+H:\DesignPatterns\final project\FinalProject\FinalProject\obj\Debug\net7.0\FinalProject.genruntimeconfig.cache
+H:\DesignPatterns\final project\FinalProject\FinalProject\obj\Debug\net7.0\ref\FinalProject.dll
